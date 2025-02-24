@@ -1,0 +1,10 @@
+[project]
+name = "cli-explain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-ai>=0.0.25",
+    "typer>=0.15.1",
+]
